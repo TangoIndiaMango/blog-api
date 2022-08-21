@@ -1,0 +1,277 @@
+[
+ {
+  "Column1": 1,
+  "Questions": "I 'm struggling to register online",
+  "Answers": "May be you have financial hold or academic advisement hold or international hold"
+ },
+ {
+  "Column1": 2,
+  "Questions": "what does it mean if your financial aid is on hold",
+  "Answers": "It means you have not fully pay off your fees. Contact student finance office or call 0514019111"
+ },
+ {
+  "Column1": 3,
+  "Questions": "How do I select the core and elective modules",
+  "Answers": "Contact your programme director"
+ },
+ {
+  "Column1": 4,
+  "Questions": "What is your colour",
+  "Answers": "I am green"
+ },
+ {
+  "Column1": 5,
+  "Questions": "Which colour indicate your academic standing",
+  "Answers": "It is either green or yellow or orange or red"
+ },
+ {
+  "Column1": 6,
+  "Questions": "If my academic standing is green, what do I need to do",
+  "Answers": "you are excellent"
+ },
+ {
+  "Column1": 7,
+  "Questions": "What if 'am yellow one",
+  "Answers": "You did not pass all your modules, but you are still on track"
+ },
+ {
+  "Column1": 8,
+  "Questions": "What about orange one",
+  "Answers": "You have failed modules more than twice"
+ },
+ {
+  "Column1": 9,
+  "Questions": "Does red indicate a good academic standing",
+  "Answers": "You are high priority"
+ },
+ {
+  "Column1": 10,
+  "Questions": "What kind of form require to change an incomplete qualification",
+  "Answers": "It is DV2"
+ },
+ {
+  "Column1": 11,
+  "Questions": "Does UFS 101 a compulsory module",
+  "Answers": "It is a compulsory module"
+ },
+ {
+  "Column1": 12,
+  "Questions": "What is elective module",
+  "Answers": "Elective module is chosen by the student from the list given by the institute in a given semester"
+ },
+ {
+  "Column1": 13,
+  "Questions": "I have clicked on the enroll link but I am still not enrolled for the selected modules.",
+  "Answers": "Make sure  you selected the checkboxes for the modules you need to register for"
+ },
+ {
+  "Column1": 14,
+  "Questions": "How do I register online?",
+  "Answers": "Log into Student Self-Service, and select Programme Enrollement to register online"
+ },
+ {
+  "Column1": 15,
+  "Questions": "What are the requirements to register?",
+  "Answers": "If you're a new student pay registration fees of 7500 or contact student finance"
+ },
+ {
+  "Column1": 16,
+  "Questions": "I'm having problem to do my education plan",
+  "Answers": "Go to UFS website and check the learning programme information in the departmental year book"
+ },
+ {
+  "Column1": 17,
+  "Questions": "When does registration start and end",
+  "Answers": "You will find it on University website under student self service"
+ },
+ {
+  "Column1": 18,
+  "Questions": "How can I add or drop a module",
+  "Answers": "You can do it online on student self service or contact your programme director"
+ },
+ {
+  "Column1": 19,
+  "Questions": "I am unable to select my modules",
+  "Answers": "Contact student academic services 051 401 9111 "
+ },
+ {
+  "Column1": 20,
+  "Questions": "I'm a NSFAS student and I have outstanding fees. Will I be allowed to register",
+  "Answers": "Contact student finance"
+ },
+ {
+  "Column1": 21,
+  "Questions": "How much is my registration fees",
+  "Answers": "Go to UFS website and check student self service option"
+ },
+ {
+  "Column1": 22,
+  "Questions": "Where can I find out more information about academic support",
+  "Answers": "Contact student academic service or call 0514019666"
+ },
+ {
+  "Column1": 23,
+  "Questions": "I have forgotten my password, how do I regain access to register",
+  "Answers": "Go to UFS website, check student self service for student password management"
+ },
+ {
+  "Column1": 24,
+  "Questions": "What should I do after registration",
+  "Answers": "Print your proof of registration from student self service on UFS website"
+ },
+ {
+  "Column1": 25,
+  "Questions": "Do I have to pay for registration if my NSFAS funds were approved?",
+  "Answers": "Contact student finance office or call 0514019111"
+ },
+ {
+  "Column1": 26,
+  "Questions": "Would failing a module cost me an extra year?",
+  "Answers": "Contact your programme director"
+ },
+ {
+  "Column1": 27,
+  "Questions": "I have registered my modules under the wrong code",
+  "Answers": "Contact your programme director"
+ },
+ {
+  "Column1": 28,
+  "Questions": "What happens if I fail a module",
+  "Answers": "You re-registered the module. Also contact your programme director"
+ },
+ {
+  "Column1": 29,
+  "Questions": "What do I need to do if I did not study for a year and willing to return to finish",
+  "Answers": "You apply for the degree again"
+ },
+ {
+  "Column1": 30,
+  "Questions": "I failed my modules and I was told that I did not meet the requirements to continue, is there something I can do",
+  "Answers": "Contact the dean's office for appeals"
+ },
+ {
+  "Column1": 31,
+  "Questions": "How much are tuition fees",
+  "Answers": "Go to UFS website and check student self service option for fees year book or you can generate the quotation online"
+ },
+ {
+  "Column1": 32,
+  "Questions": "I'm academically excluded, does that mean I cannot continue with the next semester's modules",
+  "Answers": "Yes. Contact the dean's office"
+ },
+ {
+  "Column1": 33,
+  "Questions": "I registered for an incorrect module, how can I enroll for the correct one?",
+  "Answers": "Contact your programme director is the quickest way"
+ },
+ {
+  "Column1": 34,
+  "Questions": "I registered for an incorrect module, how can I enroll for the correct one?",
+  "Answers": "Log into Student Self-Service, drop the incorrect module and add the correct module"
+ },
+ {
+  "Column1": 35,
+  "Questions": "How much is the registration for the course I choose to study",
+  "Answers": "Go to UFS website and check student self service for fees year book"
+ },
+ {
+  "Column1": 36,
+  "Questions": "I paid my own registration fees and received NSFAS thereafter, can I get a refund",
+  "Answers": "Contact student finance"
+ },
+ {
+  "Column1": 37,
+  "Questions": "Where do I get assistance if I don't understand my module content",
+  "Answers": "Contact your module presenter or your lecturer"
+ },
+ {
+  "Column1": 38,
+  "Questions": "Would NSFAS still fund me if I fail any modules?",
+  "Answers": "Contact NSFAS for appeal"
+ },
+ {
+  "Column1": 39,
+  "Questions": "What are the university's banking details?",
+  "Answers": "You can find it on the university website and check student finance"
+ },
+ {
+  "Column1": 40,
+  "Questions": "What do I do if my modules do not appear on Blackboard",
+  "Answers": "Call help desk for blackboard enquiries or call 0514012000"
+ },
+ {
+  "Column1": 41,
+  "Questions": "How long does it take for modules to appear or disappear on Blackboard",
+  "Answers": "Call help desk for blackboard enquiries or call 0514012000"
+ },
+ {
+  "Column1": 42,
+  "Questions": "How much does it cost to add a module not funded",
+  "Answers": "Contact student finance or go to UFS website and check student finance to generate quotation"
+ },
+ {
+  "Column1": 43,
+  "Questions": "Can I choose courses across departments",
+  "Answers": "You can, but contact your programme director"
+ },
+ {
+  "Column1": 44,
+  "Questions": "How can I contact the international office staff during registration",
+  "Answers": "Via email or call 0514013219"
+ },
+ {
+  "Column1": 45,
+  "Questions": "How much do I pay",
+  "Answers": "Contact the student finance or call 0514019111"
+ },
+ {
+  "Column1": 46,
+  "Questions": "Can I register with my study visa receipt?",
+  "Answers": "You can but contact the international office on 0514013219"
+ },
+ {
+  "Column1": 47,
+  "Questions": "I am in need of funding, what should I do",
+  "Answers": "Contact financial aids"
+ },
+ {
+  "Column1": 48,
+  "Questions": "I have accepted the offer, what is my next step?",
+  "Answers": "Go and register"
+ },
+ {
+  "Column1": 49,
+  "Questions": "What are the other funding options besides NSFAS",
+  "Answers": "Check online for bursaries awarded by the university"
+ },
+ {
+  "Column1": 50,
+  "Questions": "What documents do I need to submit for registration at the international office",
+  "Answers": "Contact international office for list of document to submit on 0514013219"
+ },
+ {
+  "Column1": 51,
+  "Questions": "Can I use my medical aid to register",
+  "Answers": "Yes, but contact student finance because there is a process to follow"
+ },
+ {
+  "Column1": 52,
+  "Questions": "Can I use my merit bursary to register?",
+  "Answers": "Yes, but contact student finance because there is a process to follow"
+ },
+ {
+  "Column1": 53,
+  "Questions": "How do I access blackboard?",
+  "Answers": "Go to UFS website"
+ },
+ {
+  "Column1": 54,
+  "Questions": "how do I sign in on the Blackboard App?",
+  "Answers": "Use your username and password"
+ },
+ {
+  "Column1": 55,
+  "Questions": "Can you get exempted for the UFS module?",
+  "Answers": "No, you can't"
+ }
+]
